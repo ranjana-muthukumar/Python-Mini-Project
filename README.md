@@ -11,8 +11,7 @@ A Python-based automation tool that rapidly corrects data across multiple spread
 
 ## Installation
 
-1. Clone the repository: https://github.com/ranjana-muthukumar/Python-Mini-Project/tree/main
-2. Install required libraries: pip install pandas matplotlib openpyxl
+- Install required libraries: pip install pandas matplotlib openpyxl
 
 ## Usage
 
